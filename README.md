@@ -7,6 +7,14 @@ The aim of this analysis is to be able to predict in future the daily Air Qualit
 
 Linear Regression Analysis has been performed on the public dataset of the air quality in India. Dataset can be found here: https://www.kaggle.com/rohanrao/air-quality-data-in-india
 
+Air quality of Delhi:
+
+<img width="511" alt="1" src="https://user-images.githubusercontent.com/83220704/123539245-0c09ab00-d739-11eb-9248-625381d687e9.png">
+
+Visualising the Linear Regression model:
+
+<img width="366" alt="2" src="https://user-images.githubusercontent.com/83220704/123539247-0d3ad800-d739-11eb-92d9-323f8cd8ef82.png">
+
 
 # Linear-Regression---Luftqualität-von-Indien
 
@@ -16,4 +24,12 @@ Mit der sich verschlechternden Luftqualität wird die Bevölkerung einem erhöht
 Das Ziel dieser Analyse ist es, in Zukunft den täglichen Luftqualitätsindex Indiens vorhersagen zu können, so dass die Bevölkerung im Voraus vor der gefährlichen Luftqualität gewarnt werden kann und zum Tragen von Luftmasken oder zum Vermeiden des Ausgehens im Freien angeregt wird.
 
 Die lineare Regressionsanalyse wurde mit dem öffentlichen Datensatz der Luftqualität in Indien durchgeführt. Der Datensatz kann hier gefunden werden: https://www.kaggle.com/rohanrao/air-quality-data-in-india
+
+Luftqualität in Delhi:
+
+<img width="511" alt="1" src="https://user-images.githubusercontent.com/83220704/123539245-0c09ab00-d739-11eb-9248-625381d687e9.png">
+
+Visualisierung des linearen Regressionsmodells:
+
+<img width="366" alt="2" src="https://user-images.githubusercontent.com/83220704/123539247-0d3ad800-d739-11eb-92d9-323f8cd8ef82.png">
 
